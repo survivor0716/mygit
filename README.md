@@ -6,3 +6,4 @@ Git is a version control system.
 Git is free software.1
 
 # mygit
+Creating a new branch is quick.
