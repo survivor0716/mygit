@@ -12,6 +12,6 @@ Creating a new branch is quick and simple.
 
 dev
 
-edit by TestGit
+edit by TestGit2
 
 # something new
